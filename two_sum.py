@@ -5,3 +5,4 @@ class Solution:
             for j in range(i+1,len(nums)):
                 if nums[j] == sub:
                     return [i,j]
+#test push
